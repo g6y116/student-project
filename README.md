@@ -78,4 +78,4 @@ Android(Java)
 
 Service, Broadcast Receiver, Room, SurfaceView 등의 개념을 이해할 수 있었습니다.
 
-<img src="./CatDefense/cat_defense_screenshot.gif" width="100%" height="100%">
+<img src="./CatDefense/catDefense_video_cut_x3.gif" width="100%" height="100%">
